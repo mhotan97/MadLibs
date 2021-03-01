@@ -12,7 +12,7 @@ nounTwo = input("Enter a noun:")
 
 #our story
 # f-strings have the f prefix and use {} brackets to evaluate values.
-story = (f" {exclamation}! Bob said {adverb} as he stepped on the {noun}. Serves him right because he is an {adjective} ass. If only he went to the {nounTwo} instead. {exclamation}")
+story = (f" {exclamation}! Bob said {adverb} as he stepped on the {noun}. Serves him right because he is an {adjective} person. If only he went to the {nounTwo} instead. {exclamation}")
 
 #printing the story
 print(story)
